@@ -1,6 +1,8 @@
 # DSA210_Project_Uber
 
-## Project Motivation
+## Proposal
+
+### Project Motivation
 This project focuses on analyzing my own uber trip data to uncover patterns and insights about travel length, pricing, and ride density. Gaining knowledge of these elements can help us understand ride-sharing trends and user behavior. Additionally, enhancing my skills in data analysis, visualization, and machine learning is possible with this project. 
 
 ### Data Source
